@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buildseo.github.io/nvscustoms-wilmington-window-tinting/sitemap.xml
